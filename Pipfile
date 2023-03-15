@@ -10,6 +10,9 @@ pandas = "*"
 jupyterlab = "*"
 tensorflow = "*"
 seaborn = "*"
+numpy = "*"
+tf-explain = "*"
+ultralytics = "*"
 
 [dev-packages]
 
