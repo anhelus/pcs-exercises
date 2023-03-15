@@ -87,10 +87,12 @@ Be sure to have these software installed:
       pipenv install
       ```
     
-    **Option 2** - Using `pip`
+    **Option 2** - Using `pip` and `virtualenvwrapper`:
 
       ```sh
-      pip install -r requirements.txt
+      $ mkvirtualenv pcs
+      $ workon pcs
+      (pcs) $ pip install -r requirements.txt
       ```
 
 > Note: with `pip`, a virtual environment is *strongly* suggested.
