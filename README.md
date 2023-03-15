@@ -41,7 +41,7 @@
   6. [Contributing](#contributing)
   7. [License](#license)
   8. [Contact](#contact)
-  9. [Acknowledgements](#acknowledgements)
+  9. [References](#references)
 
 </details>
 
@@ -135,6 +135,17 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 [Angelo Cardellicchio](mailto:angelo.cardellicchio@stiima.cnr.it)
 
 Project Link: [https://github.com/anhelus/pcs-exercises](https://github.com/anhelus/pcs-exercises)
+
+## References
+
+* [NumPy docs](https://numpy.org/doc/)
+* [Matplotlib docs](https://matplotlib.org/stable/index.html)
+* [Seaborn docs](https://seaborn.pydata.org/tutorial.html)
+* [Pandas docs](https://pandas.pydata.org/docs/)
+* [Scikit Learn docs](https://scikit-learn.org/stable/user_guide.html)
+* [TensorFlow docs](https://www.tensorflow.org/learn?hl=en)
+* [YOLOv8 docs](https://docs.ultralytics.com/)
+* [tf-explain docs](https://tf-explain.readthedocs.io/en/latest/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
