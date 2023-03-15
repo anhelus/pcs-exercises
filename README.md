@@ -136,15 +136,15 @@ Project Link: [https://github.com/anhelus/pcs-exercises](https://github.com/anhe
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/anhelus/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/anhelus/pcs-exercises.svg?style=for-the-badge
 [contributors-url]: https://github.com/anhelus/pcs-exercises/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/anhelus/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/anhelus/pcs-exercises.svg?style=for-the-badge
 [forks-url]: https://github.com/anhelus/pcs-exercises/network/members
-[stars-shield]: https://img.shields.io/github/stars/anhelus/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/anhelus/pcs-exercises.svg?style=for-the-badge
 [stars-url]: https://github.com/anhelus/pcs-exercises/stargazers
-[issues-shield]: https://img.shields.io/github/issues/anhelus/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/anhelus/pcs-exercises.svg?style=for-the-badge
 [issues-url]: https://github.com/anhelus/pcs-exercises/issues
-[license-shield]: https://img.shields.io/github/license/anhelus/repo.svg?style=for-the-badge
-[license-url]: https://github.com/anhelus/repo/blob/master/LICENSE.md
+[license-shield]: https://img.shields.io/github/license/anhelus/pcs-exercises.svg?style=for-the-badge
+[license-url]: https://github.com/anhelus/pcs-exercises/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/angelocardellicchio
