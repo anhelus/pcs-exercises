@@ -13,6 +13,7 @@ seaborn = "*"
 numpy = "*"
 tf-explain = "*"
 ultralytics = "*"
+statsmodels = "*"
 
 [dev-packages]
 
