@@ -15,6 +15,7 @@ tf-explain = "*"
 ultralytics = "*"
 statsmodels = "*"
 scikit-image = "*"
+pydot = "*"
 
 [dev-packages]
 
