@@ -16,6 +16,7 @@ ultralytics = "*"
 statsmodels = "*"
 scikit-image = "*"
 pydot = "*"
+shap = "*"
 
 [dev-packages]
 
