@@ -9,3 +9,10 @@ Pipfile.lock
 data/
 logs/
 checkpoints/
+runs/
+results/
+xai/
+*.h5
+*.yaml
+*.pt
+datasets/
