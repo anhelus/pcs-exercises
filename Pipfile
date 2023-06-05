@@ -3,6 +3,11 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+[[source]]
+url = "https://download.pytorch.org/whl/cu117"
+verify_ssl = false
+name = "pytorch"
+
 [packages]
 scikit-learn = "*"
 matplotlib = "*"
@@ -12,12 +17,15 @@ tensorflow = "<2.10"
 seaborn = "*"
 numpy = "*"
 tf-explain = "*"
-ultralytics = "*"
 statsmodels = "*"
 scikit-image = "*"
 pydot = "*"
 shap = "*"
 tensorflow-gpu = "<2.10"
+ultralytics = "*"
+dash = "*"
+dash-bootstrap-components = "*"
+tensorflow-datasets = "==4.8.3"
 
 [dev-packages]
 
