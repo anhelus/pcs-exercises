@@ -26,6 +26,9 @@ ultralytics = "*"
 dash = "*"
 dash-bootstrap-components = "*"
 tensorflow-datasets = "==4.8.3"
+keras-tuner = "*"
+autokeras = "*"
+keras-cv = "==0.4"
 
 [dev-packages]
 
