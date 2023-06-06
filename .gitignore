@@ -16,3 +16,4 @@ xai/
 *.yaml
 *.pt
 datasets/
+tuning/
