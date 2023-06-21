@@ -3,31 +3,11 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[[source]]
-url = "https://download.pytorch.org/whl/cu117"
-verify_ssl = false
-name = "pytorch"
-
 [packages]
 scikit-learn = "*"
-matplotlib = "*"
 pandas = "*"
+matplotlib = "*"
 jupyterlab = "*"
-tensorflow = "<2.11"
-seaborn = "*"
-numpy = "*"
-tf-explain = "*"
-statsmodels = "*"
-scikit-image = "*"
-pydot = "*"
-shap = "*"
-tensorflow-gpu = "<2.11"
-ultralytics = "*"
-dash = "*"
-dash-bootstrap-components = "*"
-tensorflow-datasets = "==4.8.3"
-keras-tuner = "*"
-autokeras = "*"
 
 [dev-packages]
 
